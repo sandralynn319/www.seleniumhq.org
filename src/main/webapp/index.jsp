@@ -13,10 +13,23 @@
 
 <body class="homepage">
 <%@include file="/jsp/header.jspf"%><div id="mainContent">
+  <h2>What is Automation Testing</h2>
+  <p><i>Before Selenium Introduction</i> you should know abouot automation testing, Test automation has grown in popularity over the years because teams do not have the time or money to invest in large test teams to make sure that applications work as they are expected to. Developers also want to make sure that the code they have created works as they expect it to.
+
+Developers use a multitude of different testing frameworks to test different aspects of the system. Selenium is one of the most well‐known testing frameworks in the world that is in use. It is an open source project that allows testers and developers alike to develop functional tests to drive the browser. It can be used to record workflows so that developers can prevent future regressions of code. Selenium can work on any browser that supports JavaScript since Selenium has been built using JavaScript.
+
+Software applications today are written as web‐based applications to be run in an Internet browser. The effectiveness of testing these applications varies widely among companies and organizations. In an era of highly interactive and responsive software processes where many organizations are using some form of Agile methodology, test automation is frequently becoming a requirement for software projects. Test automation is often the answer. Test automation means using a software tool to run repeatable tests against the application to be tested. For regression testing this provides that responsiveness.</p>
   <h2>What is Selenium?</h2>
   <p><i>Selenium automates browsers</i>. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.</p>
-  <p>Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.</p>
-  
+  <p><a href="https://mindmajix.com/selenium-training">Selenium</a> has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.</p>
+  <h3>How Selenium works</h3>
+  <p>Uses JavaScript and Iframes in the browser
+
+Core runs the tests and interrogates the DOM
+
+RC server and Core communicate via AJAX
+
+    Language hooks communicate with the RC server.</p>
   <h2>Which part of Selenium is appropriate for me?</h2>
 
   <table id="choice">
